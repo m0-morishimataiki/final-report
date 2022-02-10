@@ -24,7 +24,6 @@ float angle4 = 0;
 float l3 = 0;
 
 float dif = 1.0;
-float x, y, vx;
 
 void setup(){
   size(1200, 1200, P3D);
